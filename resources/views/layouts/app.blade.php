@@ -83,10 +83,6 @@
         </main>
     </div>
 
-    <footer id="sticky-footer" class="flex-shrink-0 py-4 text-dark-50">
-      <div class="container text-center">
-        <small>Made with ❤️ by <a href="https://www.youtube.com/channel/UCPj8ztcYe1D6SSuXPDpupeA" style="text-decoration: none;">Seven Stac</a></small>
-      </div>
-    </footer>
+    
 </body>
 </html>
